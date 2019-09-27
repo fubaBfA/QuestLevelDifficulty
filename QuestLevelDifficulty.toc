@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Quest Level Difficulty
+## Version: 1.0
+## Author: fuba
+## Notes: Adds Quest level Difficulty to the Quest Description
+
+QuestLevelDifficulty.lua
