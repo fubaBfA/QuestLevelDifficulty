@@ -1,6 +1,6 @@
 ## Interface: 11302
 ## Title: Quest Level Difficulty
-## Version: 1.0
+## Version: @project-version@
 ## Author: fuba
 ## Notes: Adds Quest Level Difficulty to the Quest Description
 
